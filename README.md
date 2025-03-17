@@ -25,7 +25,7 @@ Instalación 🏗️📥🚀
 
 Clona este repositorio en tu servidor local:
 
-git clone https://github.com/tuusuario/Sistema-de-inventario.git
+git clone https://github.com/ivanfr12/Sistema-de-inventario.git
 
 Importa la base de datos desde el archivo database.sql en MySQL.
 
